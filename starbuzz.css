@@ -63,6 +63,10 @@ body {
   vertical-align: top;
 }
 
+#headerslogan{
+float:right;
+}
+
 div#tableContainer {
   display: table;
 }
@@ -83,6 +87,8 @@ h1 {
   text-align:       center;
   line-height:      1.8em;
 }
+
+
 
 a:link {
   color:            #b76666;
